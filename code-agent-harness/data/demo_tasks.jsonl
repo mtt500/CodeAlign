@@ -1,0 +1,2 @@
+{"task_id":"sum_list","prompt":"Write solve(nums) to return the sum of a list of integers.","tests":"assert solve([1, 2, 3]) == 6\nassert solve([]) == 0","entry_point":"solve"}
+{"task_id":"palindrome","prompt":"Write solve(text) to return True when text is a palindrome and False otherwise.","tests":"assert solve('level') is True\nassert solve('agent') is False","entry_point":"solve"}
